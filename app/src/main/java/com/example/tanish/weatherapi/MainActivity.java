@@ -1,3 +1,6 @@
+/*
+* Weather Map API APP
+*/
 package com.example.tanish.weatherapi;
 
 import android.support.v7.app.AppCompatActivity;
